@@ -1,0 +1,7 @@
+{
+  "pkg": {
+    "scripts": ["build/index.js"],
+    "assets": "build/assets/flashplayer",
+    "targets": ["node14-linux-x64"]
+  }
+}

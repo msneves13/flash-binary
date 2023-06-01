@@ -1,0 +1,7 @@
+{
+  "pkg": {
+    "scripts": ["build/index.js"],
+    "assets": ["build/assets/flashplayer.dmg"],
+    "targets": ["node14-macos-arm64"]
+  }
+}
